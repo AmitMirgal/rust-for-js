@@ -35,7 +35,7 @@ If a concept has no JS equivalent (ownership, lifetimes, the borrow checker), th
 |---|---|---|
 | [01](./rust_for_js_ep1_installation.md) | **Getting Rust installed** | `rustup`, `cargo`, project structure, `Cargo.toml` |
 | [02](./episode-02-variables-types-mutability.md) | **Variables & types** | `let`, `const`, mutability, type inference |
-| 03 | **Functions** | `fn`, return values, expressions vs statements *(coming soon)* |
+| [03](./episode-03-functions-expressions.md) | **Functions** | `fn`, return values, expressions vs statements |
 | 04 | **Ownership** | The concept JS doesn't have — explained from scratch *(coming soon)* |
 | 05 | **Borrowing & references** | `&`, `&mut`, the borrow checker *(coming soon)* |
 | 06 | **Structs** | Like JS objects, but typed and without a prototype chain *(coming soon)* |
